@@ -35,4 +35,10 @@ new Food (
     'Old Bay seasoned crab casserole with a corn chowder drizzle', 
     '$12.99',
 ),
+new Food (
+    'f4', 
+    'Test Food', 
+    'Not really food that you want to eat', 
+    'FREE',
+),
 ];
